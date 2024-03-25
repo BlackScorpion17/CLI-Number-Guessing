@@ -1,0 +1,20 @@
+{
+  "name": "lkn17-cli-number-guessing",
+  "version": "2.0.3",
+  "description": "This is cli based number guessing game",
+  "main": "next.js",
+  "type": "module",
+  "bin": "next.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "lkn17-cli-number-guessing": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
